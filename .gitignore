@@ -1,0 +1,31 @@
+# Virtual environment
+venv/
+
+# Datasets
+dataset/
+MRNet-v1.0/
+fastmri_knee/
+
+# Model weights
+*.pth
+*.pt
+*.ckpt
+
+# Outputs & experiments
+outputs/
+logs/
+plots/
+attention_maps/
+predictions/
+reports/
+
+# Gradio cache
+.gradio/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+
